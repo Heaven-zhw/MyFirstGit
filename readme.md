@@ -1,6 +1,8 @@
-#<center>数据库课程设计——学习学籍管理系统</center>
-###<p align="right">——By Heaven-zhw</p>
-##功能阐述
+数据库课程设计——学习学籍管理系统
+====
+# <p align="right">——By Heaven-zhw</p>
+
+## 功能阐述
 
 本项目利用web开发、数据库系统应用等技术，实现一个本科生学籍管理系统，可以提供如下功能：
 
@@ -22,7 +24,7 @@
 
 （9）修改密码：修改当前登录用户的密码
 
-##开发工具和开发环境
+## 开发工具和开发环境
 
 本系统开发环境：win10+php5.6+mysql5.5+Apache2.4
 
@@ -35,7 +37,7 @@ php开发工具：phpstorm
 
 
 
-##配置说明(安装好mysql、Apache，配置好php之后)
+## 配置说明(安装好mysql、Apache，配置好php之后)
 
 	1.将stusystem文件夹放在本机WWW文件夹下，我的位置是D:\phpStudy\PHPTutorial\WWW
 	
@@ -60,7 +62,7 @@ php开发工具：phpstorm
 
 	
 	
-##使用说明：
+## 使用说明：
 
 运行stusystem下的index.php，参照stusystem内用户名和密码.txt里的用户名和密码登录系统即可
 
